@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ 
  */
 package recursos;
 
@@ -11,7 +9,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author darioc
+ * @author Dario Carranza
  */
 public class Imagen extends javax.swing.JPanel {
     

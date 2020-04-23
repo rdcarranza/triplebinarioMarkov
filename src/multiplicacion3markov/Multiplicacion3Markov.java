@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ 
  */
 package multiplicacion3markov;
 
@@ -9,7 +7,7 @@ import ventanas.JFramePrincipal;
 
 /**
  *
- * @author darioc
+ * @author Dario Carranza
  */
 public class Multiplicacion3Markov {
 
